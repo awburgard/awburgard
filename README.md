@@ -29,6 +29,4 @@ Before engineering: B.S. Exercise Science (Truman State, 2015), three years of M
 
 ## Reach me
 
-- [austinburgard.tech](https://www.austinburgard.tech)
-- [linkedin.com/in/austin-burgard](https://www.linkedin.com/in/austin-burgard/)
-- burgardwaustin@gmail.com
+[austin@solito.studio](mailto:austin@solito.studio)
