@@ -1,8 +1,17 @@
 # Austin Burgard
 
-Senior software engineer in St. Louis, MO. Currently at [RealWork Labs](https://www.realworklabs.com), where I work across our backend platform and product surface.
+Senior Product Engineer at [Teal](https://www.tealhq.com), based in St. Louis, MO.
 
-In the last year I've built our Pulse Dashboard greenfield (data model through UI, including AI Feedback Themes and Power BI integration), designed our internal AppConfig system that webhook, widgets, and CDC workers run on, and shipped a token-secured Marketing Prospect SPA solo (Vite + shadcn + TanStack Table + MapLibre + Amplify, with a BigQuery → Lambda → S3 pipeline behind it).
+<a href="https://solito.studio">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/solito-wordmark-light.svg">
+    <img src="assets/solito-wordmark.svg" alt="Sólito" width="220">
+  </picture>
+</a>
+
+I'm also the founder of **[Sólito LLC](https://solito.studio)**, an independent AI consulting and software engineering studio. I work directly with clients to scope, build, and integrate AI features into their products and workflows. Based in St. Louis, working remotely.
+
+Previously at [RealWork Labs](https://www.realworklabs.com), I built the Pulse Dashboard from the data model through the UI (including AI Feedback Themes and Power BI integration), designed the internal AppConfig system used by webhooks, widgets, and CDC workers, and shipped a token-secured Marketing Prospect SPA solo (Vite + shadcn + TanStack Table + MapLibre + Amplify, with a BigQuery → Lambda → S3 pipeline behind it).
 
 On the side, I ship iOS apps in React Native + Expo:
 
